@@ -2,13 +2,14 @@
 
 > Automated creating this spinning wheel dare  
 > Can be added all the options using a csv file(names in my case)  
+> A sample game created : [spinning wheel game](https://wordwall.net/resource/60302009)
 
 # Pre-requisites
 
 > You should have a template ready to use. Choose a template from [here](https://wordwall.net/create)  
 > You should have an account in [Wordwall](https://wordwall.net/)  
 > You need to have a csv file with the options you need to add in spinning wheel  
-> 
+
 
 # How to run
 
